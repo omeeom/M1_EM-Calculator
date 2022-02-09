@@ -7,12 +7,18 @@
 # Requirements
 
 * High Level Requirements
-
 * Low Level Requirements
+
+# High Level Requirements
+    *Key to store the entered keys
+    *Expression to store the Expression string to be processed
+    *Display to show the entered keys and the calculation result
+    *Result to store the last result (due to its double function Display cannot store the result)
+    *Described basic electrical expression and formulas.
 
 # Low Level Requirements
     *Calculator must not exceed given amount of memory.
     *Calculator should not turn user input into executable code.
     *Invalid operations should be properly reported as such.
-    *Calculations should be performed within n milliseconds.
+    *Calculations should be performed within milliseconds.
     *UI should conform to platform guidelines.
