@@ -10,8 +10,9 @@
 
 * Low Level Requirements
 
-    *Calculator must not exceed given amount of memory
-    *Calculator should not turn user input into executable code
-    *Invalid operations should be properly reported as such
-    *Calculations should be performed within n milliseconds
-    *UI should conform to platform guidelines
+# Low Level Requirements
+    *Calculator must not exceed given amount of memory.
+    *Calculator should not turn user input into executable code.
+    *Invalid operations should be properly reported as such.
+    *Calculations should be performed within n milliseconds.
+    *UI should conform to platform guidelines.
