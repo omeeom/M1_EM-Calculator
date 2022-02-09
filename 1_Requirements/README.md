@@ -7,7 +7,9 @@
 # Requirements
 
 * High Level Requirements
+
 * Low Level Requirements
+
     *Calculator must not exceed given amount of memory
     *Calculator should not turn user input into executable code
     *Invalid operations should be properly reported as such
