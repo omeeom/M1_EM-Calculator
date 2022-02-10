@@ -12,6 +12,8 @@
 * Apart from normal calculator some basic electrical parameters can also be calculated with the help of  
   EM-Calculator.
 
+  * https://app.codiga.io/public/project/30926/M1_EM-Calculator_Utility/dashboard
+  
   * https://api.codiga.io/project/30926/status/svg
 
   * https://api.codiga.io/project/30926/score/svg
