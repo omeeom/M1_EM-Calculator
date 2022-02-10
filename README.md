@@ -12,6 +12,21 @@
 * Apart from normal calculator some basic electrical parameters can also be calculated with the help of  
   EM-Calculator.
 
+# Operations
+
+* Addition
+* Subtraction
+* Multiplication
+* Division
+* Remainder
+* Power(x^y)
+* Voltage
+* Current
+* Capacitance
+* Resistance
+* Electrical Power
+
+
    https://app.codiga.io/public/project/30926/M1_EM-Calculator_Utility/dashboard
 
    https://api.codiga.io/project/30926/status/svg
