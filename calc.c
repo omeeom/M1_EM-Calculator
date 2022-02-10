@@ -19,7 +19,11 @@ void multiply(float n1, float n2);
 void divide(float n1, float n2);
 void rem(float n1, float n2);
 void power(float n1, float n2);
-
+void voltage(float n1, float n2);
+void current(float n1, float n2);
+void capacitance(float n1, float n2);
+void resistance(float n1, float n2);
+void electricalpower(float n1, float n2);
 // main function
 int main()
 {
@@ -27,8 +31,7 @@ int main()
   int ch;
 
   do{
-    printf("Enter two numbers: ");
-    scanf("%f %f", &n1, &n2);
+    
 
     printf("\n*****************");
     printf("\n1.Addition");
@@ -37,30 +40,74 @@ int main()
     printf("\n4.Division");
     printf("\n5.Remainder");
     printf("\n6.Power (x^y)");
-    printf("\n7.Exit");
+    printf("\n7.Voltage");
+    printf("\n8.Current");
+    printf("\n9.Capacitance");
+    printf("\n10.Resistance");
+    printf("\n11.Electrical Power");
+    printf("\n12.Exit");
+    
+    
     printf("\nEnter your choice: ");
     scanf("%d", &ch);
-
+   
     switch (ch) {
       case 1:
+        printf("Enter two numbers: ");
+        scanf("%f %f", &n1, &n2);
         add(n1,n2);
         break;
       case 2:
+        printf("Enter two numbers: ");
+        scanf("%f %f", &n1, &n2);
         subtract(n1,n2);
         break;
       case 3:
+        printf("Enter two numbers: ");
+        scanf("%f %f", &n1, &n2);
         multiply(n1,n2);
         break;
       case 4:
+        printf("Enter two numbers: ");
+        scanf("%f %f", &n1, &n2);
         divide(n1,n2);
         break;
       case 5:
+        printf("Enter two numbers: ");
+        scanf("%f %f", &n1, &n2);
         rem(n1,n2);
         break;
       case 6:
+        printf("Enter two numbers: ");
+        scanf("%f %f", &n1, &n2);
         power(n1,n2);
         break;
-      case 7:
+    case 7:
+        printf("Enter current and resistance: ");
+        scanf("%f %f", &n1, &n2);
+        voltage(n1,n2);
+        break;
+    case 8:
+        printf("Enter voltage and resistance: ");
+        scanf("%f %f", &n1, &n2);
+        current(n1,n2);
+        break;
+    case 9:
+        printf("Enter charge and voltage: ");
+        scanf("%f %f", &n1, &n2);
+        capacitance(n1,n2);
+        break;
+    case 10:
+        printf("Enter voltage and current: ");
+        scanf("%f %f", &n1, &n2);
+        resistance(n1,n2);
+        break;
+    case 11:
+        printf("Enter voltage and current: ");
+        scanf("%f %f", &n1, &n2);
+        electricalpower(n1,n2);
+        break;
+      case 12:
         printf("Thank You.");
         exit(0);
       default:
@@ -133,3 +180,39 @@ void power(float n1, float n2)
     display(n1, n2, '^', result);
   }
 }
+// function for Voltage:V=IR
+void voltage(float n1, float n2)
+{
+  float result = n1 * n2;
+  display(n1, n2, '*', result);
+  printf("volts");
+}
+// function for Current:I=V/R
+void current(float n1, float n2)
+{
+  float result = n1 / n2;
+  display(n1, n2, '/', result);
+  printf("Amps");
+}
+// function for Capacitance:C=Q/V
+void capacitance(float n1, float n2)
+{
+  float result = n1 / n2;
+  display(n1, n2, '/', result);
+  printf("farad");
+}
+// function for Resistance:R=V/I
+void resistance(float n1, float n2)
+{
+  float result = n1 / n2;
+  display(n1, n2, '/', result);
+  printf("ohm");
+}
+// function for Electrical Power:v x I
+void electricalpower(float n1,float n2)
+{
+  float result = n1 * n2;
+  display(n1, n2, '*', result);
+  printf("watts");
+}
+
