@@ -11,7 +11,7 @@
 * Commands are entered using conventional infix syntax, with parenthesis indicating nonstandard operation 
   order.
   
-# Requirements
+## Requirements
 
 * High Level Requirements
 * Low Level Requirements
