@@ -1,5 +1,5 @@
 /**
- * @file calc.c
+ * @file main.c
  * @author Om Gautam (omee1434omee@gmail.com)
  * @brief Electro Mathematical Calculator
  * @version 0.1
