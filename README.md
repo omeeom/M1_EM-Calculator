@@ -26,6 +26,7 @@
 * Resistance
 * Electrical Power
 
+# PDLC Based Learning Outcome
 # Codiga(Code Inspector Link)
 
    ![Code grade](https://api.codiga.io/project/30926/status/svg)
