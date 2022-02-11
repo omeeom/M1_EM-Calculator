@@ -1,4 +1,7 @@
 # Electro Mathematical Calculator
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/6bff3fe2e156459a86d888fe82416471)](https://app.codacy.com/gh/omeeom/M1_EM-Calculator_Utility?utm_source=github.com&utm_medium=referral&utm_content=omeeom/M1_EM-Calculator_Utility&utm_campaign=Badge_Grade_Settings)
+
 * This document specifies the functional requirements for a multi-function calculator program.
 * The program is designed to act like a “handheld calculator” with the usual standard functions
   (add, subtract, multiply, divide, exponentiation). 
