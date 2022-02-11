@@ -33,3 +33,7 @@
    ![Code grade](https://api.codiga.io/project/30926/status/svg)
 
    ![Code grade](https://api.codiga.io/project/30926/score/svg)
+
+# Codacy
+
+   ![Code grade](https://app.codacy.com/gh/omeeom/M1_EM-Calculator_Utility/dashboard)
