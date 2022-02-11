@@ -208,7 +208,7 @@ void resistance(float n1, float n2)
   display(n1, n2, '/', result);
   printf("ohm");
 }
-// function for Electrical Power:v x I
+// function for Electrical Power:v x I //
 void electricalpower(float n1,float n2)
 {
   float result = n1 * n2;
