@@ -39,8 +39,6 @@
   # Threat :
    Competetion and Growth in new technologies are threat beacuse of leading inventions.
 
-https://github.com/omeeom/M1_EM-Calculator_Utility/blob/52b8eb29cead85039adda9cce4ce9dfd65106239/2_Architecture/Flow Chart_EM Calc.jpeg
-
    # Operations
 
 * Addition
