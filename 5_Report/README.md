@@ -53,10 +53,21 @@
 * Resistance
 * Electrical Power
 
+   #### Folder Structure
+Folder             | Description
+-------------------| -----------------------------------------
+`1_Requirements`   | Documents detailing requirements and research
+`2_Architecture`         | Documents specifying design details
+`3_Implementation` | All code and documentation
+`4_Testplan`      | Documents with test plans and procedures
+
+# PDLC Based Learning Outcome
 # Codiga(Code Inspector Link)
 
-   https://app.codiga.io/public/project/30926/M1_EM-Calculator_Utility/dashboard
+   ![Code grade](https://api.codiga.io/project/30926/status/svg)
 
-   https://api.codiga.io/project/30926/status/svg
+   ![Code grade](https://api.codiga.io/project/30926/score/svg)
 
-   https://api.codiga.io/project/30926/score/svg
+# Codacy
+
+  [![Codacy Badge](https://app.codacy.com/project/badge/Grade/8f0c00e16d924e77be297d6eb791c172)](https://www.codacy.com/gh/omeeom/M1_EM-Calculator_Utility/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=omeeom/M1_EM-Calculator_Utility&amp;utm_campaign=Badge_Grade)

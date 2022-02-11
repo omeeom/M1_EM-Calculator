@@ -36,3 +36,11 @@
 # Codacy
 
   [![Codacy Badge](https://app.codacy.com/project/badge/Grade/8f0c00e16d924e77be297d6eb791c172)](https://www.codacy.com/gh/omeeom/M1_EM-Calculator_Utility/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=omeeom/M1_EM-Calculator_Utility&amp;utm_campaign=Badge_Grade)
+
+  #### Folder Structure
+Folder             | Description
+-------------------| -----------------------------------------
+`1_Requirements`   | Documents detailing requirements and research
+`2_Architecture`         | Documents specifying design details
+`3_Implementation` | All code and documentation
+`4_Testplan`      | Documents with test plans and procedures
