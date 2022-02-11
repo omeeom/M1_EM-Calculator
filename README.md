@@ -28,8 +28,8 @@
 
 # Codiga(Code Inspector Link)
 
-   https://app.codiga.io/public/project/30926/M1_EM-Calculator_Utility/dashboard
+   ![Code grade](https://app.codiga.io/public/project/30926/M1_EM-Calculator_Utility/dashboard)
 
-   https://api.codiga.io/project/30926/status/svg
+   ![Code grade](https://api.codiga.io/project/30926/status/svg)
 
-   https://api.codiga.io/project/30926/score/svg
+   ![Code grade](https://api.codiga.io/project/30926/score/svg)
