@@ -25,11 +25,14 @@
   `HLR_5`| Described basic electrical calculations.
 
 # Low Level Requirements
-  * Calculator must not exceed given amount of memory.
-  * Calculator should not turn user input into executable code.
-  * Invalid operations should be properly reported as such.
-  * Calculations should be performed within milliseconds.
-  * UI should conform to platform guidelines.
+  
+   `LLR` |  `DESCRIPTION`
+   ------|---------------------------------------------------
+  `LLR_1`| Calculator must not exceed given amount of memory.
+  `LLR_2`| Calculator should not turn user input into executable code.
+  `LLR_3`| Invalid operations should be properly reported as such.
+  `LLR_4`| Calculations should be performed within milliseconds.
+  `LLR_5`| UI should conform to platform guidelines.
 
 # Swot Analysis
   # Strength :
