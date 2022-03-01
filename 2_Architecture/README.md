@@ -1,5 +1,8 @@
 # Design
 
+![image](https://user-images.githubusercontent.com/80105220/156134523-beb18c9a-dbf5-42ff-857c-f53eb831c31f.png)
+
+
 # The calculator control system
 
     Before we start to think about a calculator state machine we should make a design of the
