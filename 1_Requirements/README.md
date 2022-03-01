@@ -16,7 +16,7 @@
 * Low Level Requirements
 
 # High Level Requirements
-    HLR  |  DESCRIPTION
+   `HLR` |  `DESCRIPTION`
   -------| ---------------------------------------------------------------------------------
   `HLR_1`| Key to store the entered keys.
   `HLR_2`| Expression to store the Expression string to be processed.
