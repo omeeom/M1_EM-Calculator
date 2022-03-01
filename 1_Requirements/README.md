@@ -17,7 +17,7 @@
 
 # High Level Requirements
     HLR  |      DESCRIPTION
-    -----|------------------------------
+    -----|------------------------------------------------------
   `HLR_1`|Key to store the entered keys
   `HLR_2`|Expression to store the Expression string to be processed
   `HLR_3`| Display to show the entered keys and the calculation result
