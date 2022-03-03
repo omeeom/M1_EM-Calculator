@@ -18,5 +18,12 @@
     • Parse the incoming keys and assign them to the appropriate control value.
     • Complete an Expression string from incoming keys.
     • Perform a calculation defined by the Expression string according to arithmetic rules, when
-      encountering operator keys +, -, *, / as well as the Equals key =. We notice that we need several calculation functions as the the rule for a calculation after Equals key and addition and subtraction operators are different than for multiplication and division operators.
+      encountering operator keys +, -, *, / as well as the Equals key =. 
+      We notice that we need several calculation functions as the the rule for a calculation after 
+      Equals key and addition and subtraction operators are different than for multiplication and division operators.
     • Electrical formulas or parameter are included for easy calculation.
+    
+ # FLOWCHART  
+       
+       ![EM FLOWCHART (1)](https://user-images.githubusercontent.com/80105220/156557725-2f381f3a-cf9c-416a-b171-92b21185e772.jpeg)
+
