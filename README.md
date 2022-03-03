@@ -1,3 +1,16 @@
+ #### Folder Structure
+Folder             | Description
+-------------------| -----------------------------------------
+`0_Certificates`   | Documents detailing certificates 
+`1_Requirements`   | Documents detailing requirements and research
+`2_Architecture`         | Documents specifying design details
+`3_Implementation` | All codes (source code,build and make file) in src file
+`4_Testplan and output`      | Documents with test plans and procedures
+`5_Report`      | All the details covered
+`6_ImagesAndVideos`   | Required images used in project
+`7_Others`   | Other details
+`8_References`   | Sites from where reference has been taken
+
 # Electro Mathematical Calculator
 * This document specifies the functional requirements for a multi-function calculator program.
 * The program is designed to act like a “handheld calculator” with the usual standard functions
@@ -37,15 +50,4 @@
 
   [![Codacy Badge](https://app.codacy.com/project/badge/Grade/8f0c00e16d924e77be297d6eb791c172)](https://www.codacy.com/gh/omeeom/M1_EM-Calculator_Utility/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=omeeom/M1_EM-Calculator_Utility&amp;utm_campaign=Badge_Grade)
 
-  #### Folder Structure
-Folder             | Description
--------------------| -----------------------------------------
-`0_Certificates`   | Documents detailing certificates 
-`1_Requirements`   | Documents detailing requirements and research
-`2_Architecture`         | Documents specifying design details
-`3_Implementation` | All codes (source code,build and make file) in src file
-`4_Testplan and output`      | Documents with test plans and procedures
-`5_Report`      | All the details covered
-`6_ImagesAndVideos`   | Required images used in project
-`7_Others`   | Other details
-`8_References`   | Sites from where reference has been taken
+ 
