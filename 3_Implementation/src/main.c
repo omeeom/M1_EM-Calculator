@@ -1,13 +1,3 @@
-/**
- * @file calc.c
- * @author Om Gautam (omee1434omee@gmail.com)
- * @brief Electro Mathematical Calculator
- * @version 0.1
- * @date 2022-02-09
- * 
- * @copyright Copyright (c) 2022
- * 
- */
 
 #include "cal.h"
 
