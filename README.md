@@ -1,3 +1,11 @@
+   ![Code grade](https://api.codiga.io/project/30926/status/svg)
+
+   ![Code grade](https://api.codiga.io/project/30926/score/svg)
+
+  [![Codacy Badge](https://app.codacy.com/project/badge/Grade/8f0c00e16d924e77be297d6eb791c172)](https://www.codacy.com/gh/omeeom/M1_EM-Calculator_Utility/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=omeeom/M1_EM-Calculator_Utility&amp;utm_campaign=Badge_Grade)
+
+ [![C/C++ CI](https://github.com/omeeom/M1_EM-Calculator_Utility/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/omeeom/M1_EM-Calculator_Utility/actions/workflows/c-cpp.yml)
+ 
  #### Folder Structure
 Folder             | Description
 -------------------| -----------------------------------------
@@ -40,14 +48,4 @@ Folder             | Description
 * Electrical Power
 
 # PDLC Based Learning Outcome
-# Codiga(Code Inspector Link)
 
-   ![Code grade](https://api.codiga.io/project/30926/status/svg)
-
-   ![Code grade](https://api.codiga.io/project/30926/score/svg)
-
-# Codacy
-
-  [![Codacy Badge](https://app.codacy.com/project/badge/Grade/8f0c00e16d924e77be297d6eb791c172)](https://www.codacy.com/gh/omeeom/M1_EM-Calculator_Utility/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=omeeom/M1_EM-Calculator_Utility&amp;utm_campaign=Badge_Grade)
-
- 
