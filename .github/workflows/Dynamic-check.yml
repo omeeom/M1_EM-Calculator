@@ -13,7 +13,7 @@ jobs:
     - name: apt install dependency
       run: |
         sudo apt-get -y install valgrind
-        sudo apt-get -y install libcunit1 libcunit1-doc libcunit1-dev   
+        
     - name: Dynamic Analysis
-      run: make dynamic_analysis -C 3_Implamentation
+      run: make dynamiccheck -C 3_Implementation
    
