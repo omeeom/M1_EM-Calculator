@@ -2,7 +2,6 @@ PROJ_NAME =EMCALCULATOR
 SRC= src/main.c\
 src/cal.c\
 
-
 ifdef OS
    RM = del /q
    FixPath = $(subst /,\,$1)
@@ -29,3 +28,6 @@ staticcheck :
 dynamic_analysis : Build
 	valgrind ./$(call FixPath,$(PROJ_NAME).$(EXEC))
 	
+coverage:
+	gcc -fprofile-arcs -ftest-coverage $(SRC) $(INC) -o $(call FixPath,$(PROJ_NAME).$(EXEC)) -lm
+	gcov -a ./$(call FixPath,$(PROJ_NAME).$(EXEC))
