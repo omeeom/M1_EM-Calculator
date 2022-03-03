@@ -24,7 +24,9 @@
     • Electrical formulas or parameter are included for easy calculation.
     
  # Flowchart
-    
+ 
+ ![EM FLOWCHART](https://user-images.githubusercontent.com/80105220/156567549-c1ebf82e-6e08-4018-a7bd-5adf3401dd9f.jpeg)
+
    
 
      
